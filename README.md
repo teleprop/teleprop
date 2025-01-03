@@ -1,4 +1,4 @@
-## Hi there 👋
+## TeleProp is a QGIS plugin for radio propagation to compute field strength prediction of transmitter.
 
 <!--
 **teleprop/teleprop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
