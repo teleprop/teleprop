@@ -1,0 +1,29 @@
+Key	(1-water/sea 2-open/rural 3-suburban 4-urban/trees/forest 5-dense urban)	Jelentése
+0	2	üres
+1	5	Összefüggõ településszerkezet (SL > 80%)
+2	5	Nem összefüggõ, magas beépítettségû településszerkezet (SL 50 - 80%)
+3	4	összefüggõ, közepes beépítettségû településszerkezet (SL 30 - 50%)
+4	3	Nem összefüggõ, alacsony beépítettségû településszerkezet (SL 10 - 30%)
+5	2	Nem összefüggõ, nagyon alacsony beépítettségû településszerkezet (SL < 10%)
+6	3	Különálló épületek
+7	4	Ipari, kereskedelmi, közösségi és katonai területek
+8	2	Gyors tranzitutak és csatlakozó területek
+9	2	Egyéb utak és csatlakozó területek
+10	2	Vasúthálózat és csatlakozó területek
+11	2	Kikötõk
+12	2	Repülõterek
+13	2	Bányák és lerakóhelyek
+14	3	Építési munkahelyek
+15	2	Használaton kívüli területek
+16	2	Városi zöldterületek
+17	2	Sport-, szabadidõ- és üdülõterületek
+18	2	Szántóföldek (egynyári kultúrák)
+19	4	Állandó növényi kultúrák (szõlõk, gyümölcsösök, olajfa-ültetvények)
+20	2	Rét, legelõ
+21	2	Komplex, illetve vegyes mûvelési szerkezet
+22	4	Településszéli gyümölcsöskertek
+23	4	Erdõk
+24	2	Lágyszárú növényzet (természetes gyep, fenyérek …)
+25	2	Növényzet nélküli vagy ritkás növényzettel fedett területek
+26	1	Vizenyõs területek
+27	1	Vízfelületek
