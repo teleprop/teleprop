@@ -36,3 +36,6 @@ Easy to use tool for:
 - to compare with standing state measured data
 - to compare with route registration measured data
 - to know effect of changing antenna and transmitter parameters
+
+> [!IMPORTANT]
+> Works with project CRS **`EPSG:23700`** (HD72 / EOV)
