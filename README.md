@@ -39,3 +39,5 @@ Easy to use tool for:
 
 > [!IMPORTANT]
 > Works with project CRS **`EPSG:23700`** (HD72 / EOV)
+
+[Install](https://github.com/krbg-TeleDeLuxe/TeleProp/wiki/Installation)
