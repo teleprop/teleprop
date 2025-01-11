@@ -16,7 +16,7 @@ This is a QGIS plugin for radio propagation to compute field strength prediction
 - ITU 1546
 - Longley-Rice (ITM)
 
-These models are using for broadcasting transmitters, point-multipoint systems, point-point radiolinks.
+These models are used for broadcasting transmitters, point-multipoint systems, point-point radiolinks.
 ## Prediction modes
 ### Point mode
 Individual test ponts given by WGS Lat-Lon coords: paste from Excel table, create points from GPS coords or pick from map.
@@ -32,7 +32,7 @@ Create a rectangular area around transmitter or draw area on map and calculate f
 - Transmitter antenna radioation pattern
 ## Designed for what use?
 Easy to use tool for:
-- to prediction of transmitter coverage area
+- to predict transmitter coverage area
 - to compare with standing state measured data
 - to compare with route registration measured data
 - to know effect of changing antenna and transmitter parameters
