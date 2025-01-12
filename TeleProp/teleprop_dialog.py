@@ -191,7 +191,10 @@ class TelePropDialog(QtWidgets.QDialog, FORM_CLASS):
         self.QPushButton_Antenna.setEnabled(self.QComboBox_Antenna.currentIndex()>0)
         #if self.QComboBox_Antenna.currentIndex()>0: 
         self.QPushButton_Antenna.setToolTip(Dialog_Antenna.loadAntenna(self))
-        self.ral.AntennaMaxIr=float(self.Setup.value("Antenna/Max.irany"))
+        try:
+            self.ral.AntennaMaxIr=float(self.Setup.value("Antenna/Max.irany"))
+        except:
+            self.ral.AntennaMaxIr=0
         self.QComboBox_Antenna.setToolTip("{0}°".format(self.ral.AntennaMaxIr))
     def createLink(self,item):
         dl=Dialog_Link(self.iface,self.Layer_Ado)
