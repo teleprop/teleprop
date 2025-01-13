@@ -1,9 +1,4 @@
-# TeleProp
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="TeleDeLuxe.png">
-  <source media="(prefers-color-scheme: light)" srcset="TeleDeLuxe.png">
-  <img alt="TeleDeLuxe logo image" src="TeleDeLuxe.png">
-</picture>
+# ![image](https://github.com/krbg-TeleDeLuxe/TeleProp/blob/main/TeleDeLuxe.png) TeleProp
 
 ## What is this?
 This is a QGIS plugin for radio propagation to compute field strength prediction of transmitter.
@@ -41,3 +36,5 @@ Easy to use tool for:
 > Works with project CRS **`EPSG:23700`** (HD72 / EOV)
 
 [Install](https://github.com/krbg-TeleDeLuxe/TeleProp/wiki/Installation)
+
+Created by: Lakatos Tamás e-mail: krbg.index@gmail.com
