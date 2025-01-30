@@ -10,6 +10,7 @@ This is a QGIS plugin for radio propagation to compute field strength prediction
 - Extended Hata
 - ITU 1546
 - Longley-Rice (ITM)
+- ITU 1812
 
 These models are used for broadcasting transmitters, point-multipoint systems, point-point radiolinks.
 ## Prediction modes
@@ -24,7 +25,7 @@ Create a rectangular area around transmitter or draw area on map and calculate f
 - Optionally Land Cover (clutter) data for example Copernicus Urban Atlas Land Cover Land Use or Corinne Land Cover.
 - Transmitter database: optionally you can get data from national authority or create from design data
 - Base map layer for example OpenStreetMap, Google Maps tiles.
-- Transmitter antenna radioation pattern
+- Transmitter antenna radiation pattern
 ## Designed for what use?
 Easy to use tool for:
 - to predict transmitter coverage area
@@ -33,7 +34,7 @@ Easy to use tool for:
 - to know effect of changing antenna and transmitter parameters
 
 > [!IMPORTANT]
-> Works with project CRS **`EPSG:23700`** (HD72 / EOV)
+> Works with all meter based project CRS: **'UTM'**,  **'Pseudo Mercator'** or in Hungary **`EPSG:23700`** (HD72 / EOV)
 
 [Install](https://github.com/krbg-TeleDeLuxe/TeleProp/wiki/Installation)
 
